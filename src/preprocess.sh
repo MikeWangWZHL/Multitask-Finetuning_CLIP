@@ -1,0 +1,1 @@
+python3 data.py -i ../data/<your dataset>/dataset -ii <subdataset1,subdataset2,...> -o ../data/<your dataset>/pickled

@@ -1,0 +1,4 @@
+# ignore datasets
+*.tar.gz
+*.zip
+/data/*
