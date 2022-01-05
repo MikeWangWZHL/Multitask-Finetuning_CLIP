@@ -1,3 +1,6 @@
+## Creating Conda Environment
+```conda create --name <env> --file requirements.txt```
+
 ## Downloading our datasets
 - https://drive.google.com/file/d/1CfomsX6qmdCLfFutptqrQnp1RlaJEpXh/view?usp=sharing
 - extract and put the `/data` folder under the same root as `/src`
