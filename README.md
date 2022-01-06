@@ -41,7 +41,7 @@
 Dataset | dataset name (-i) | subdataset name (-d)
 --- | --- | ---
 Clevr Counting | `ClevrCounting` | `counting`
-Amazon Berkeley Objects (ABO) |`ABO`| `material`,`color`
+Amazon Berkeley Objects (ABO) |`ABO`| `material`
 Caltech-UCSD Birds 200 (CUB)| `CUB`| `classification`
 Fungi | `Fungi`| `classification`
 Mini-imagenet | `mini` | `classification`
