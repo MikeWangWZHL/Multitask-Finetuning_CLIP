@@ -77,5 +77,12 @@ Each model checkpoint dir contains two files:
 - refer to `train.py` and `train_MAML.py` for default and tuning hyperparameters for each algorithm
 
 ## Citation
-
+```
+@article{wang2022model,
+  title={Model-Agnostic Multitask Fine-tuning for Few-shot Vision-Language Transfer Learning},
+  author={Wang, Zhenhailong and Yu, Hang and Li, Manling and Zhao, Han and Ji, Heng},
+  journal={arXiv preprint arXiv:2203.04904},
+  year={2022}
+}
+```
 
