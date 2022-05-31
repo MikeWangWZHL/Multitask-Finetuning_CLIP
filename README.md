@@ -1,7 +1,8 @@
-## Creating Conda Environment
+# [Model-Agnostic Multitask Fine-tuning for Few-shot Vision-Language Transfer Learning](https://arxiv.org/abs/2203.04904)
+## Create Conda Environment
 ```conda create --name <env> --file requirements.txt```
 
-## Downloading our datasets
+## Download datasets
 - https://drive.google.com/file/d/1CfomsX6qmdCLfFutptqrQnp1RlaJEpXh/view?usp=sharing
 - extract and put the `/data` folder under the same root as `/src`
 
@@ -47,7 +48,7 @@ Fungi | `Fungi`| `classification`
 Mini-imagenet | `mini` | `classification`
 
 
-## Training with provided datasets
+## Training with the provided datasets
 `run.sh` provided example code for performing training and meta-testing on our datasets. 
 ### Output format
 Each model checkpoint dir contains two files:
