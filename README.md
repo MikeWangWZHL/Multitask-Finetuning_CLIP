@@ -1,4 +1,4 @@
-# [Model-Agnostic Multitask Fine-tuning for Few-shot Vision-Language Transfer Learning](https://arxiv.org/abs/2203.04904)
+# [Rethinking Task Sampling for Few-shot Vision-Language Transfer Learning](https://arxiv.org/abs/2203.04904)
 ## Create Conda Environment
 ```conda create --name <env> --file requirements.txt```
 
